@@ -7,7 +7,6 @@ Hi, I'm Aritra Sanyal, a B.Tech final year student passionate about mobile devel
 **Focus Areas:** Mobile App Development, Backend, ML/AI
 
 - 🌱 Currently learning **DartFrog · Supabase · Next.js**
-- 📫 Reach me: **aritra.sanyal.official@gmail.com**
 - 💬 Ask me about **Flutter, Dart, Firebase**
 
 <h3 align="left">Connect with me:</h3>
