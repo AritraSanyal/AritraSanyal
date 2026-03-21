@@ -1,4 +1,4 @@
-# Hi, Aritra here!
+# Aritra Sanyal
 
 ┌────────────────────────────────────────────┐
 |                                            |
@@ -12,12 +12,12 @@
 |                                            |
 └────────────────────────────────────────────┘
 
-| ⚙️ mobile | 💻 languages | 🔧 tools | 🤖 ml / ai | 🗄️ database |
-|:-----------|:-------------|:---------|:-----------|:------------|
-| Flutter | Dart | Git | PyTorch | Firebase |
-| Dart | Python | GitHub | Hugging Face | MongoDB |
-| Android (Java) | Java | Android Studio | Multimodal | SQLite |
-| iOS | C | Postman | LLMs | |
-| Firebase | Kotlin | State Management | | |
-| REST APIs | | CI/CD | | |
-| UI/UX | | Debugging | | |
+⚙️ Flutter · Dart · Android · iOS · Firebase · REST APIs · UI/UX
+💻 Dart · Python · Java · C · Kotlin
+🔧 Git · GitHub · Android Studio · Postman · State Management · CI/CD
+🤖 PyTorch · Hugging Face · LLMs
+🗄️ Firebase · MongoDB · SQLite
+
+## activity
+
+![Contributions](https://ghchart.rshah.org/0D1117/AritraSanyal)
