@@ -1,5 +1,6 @@
 # Aritra Sanyal
 
+```dart
 void main() {
   var dev = Developer()
     ..name = "Aritra Sanyal"
@@ -8,6 +9,7 @@ void main() {
 
   print(dev.sayHi());
 }
+```
 
 ---
 
