@@ -13,7 +13,7 @@ Hi, I'm Aritra Sanyal, a B.Tech final year student passionate about mobile devel
 <p align="left">
 <a href="https://github.com/AritraSanyal" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/github.svg" alt="AritraSanyal" height="30" width="40" /></a>
 <a href="https://www.linkedin.com/in/aritra-sanyal-08263b214/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="aritra-sanyal-08263b214" height="30" width="40" /></a>
-<a href="mailto:aritra.sanyal.official@gmail.com" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/gmail.svg" alt="aritra.sanyal.official@gmail.com" height="30" width="40" /></a>
+<a href="mailto:aritra.sanyal.official@gmail.com" target="blank"><img align="center" src="https://img.icons8.com/color/48/gmail-new.png" alt="gmail" height="30" width="40" /></a>
 </p>
 
 <h3 align="left">Languages & Tools:</h3>
