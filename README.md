@@ -1,32 +1,58 @@
 # Aritra Sanyal
 
+void main() {
+  var dev = Developer()
+    ..name = "Aritra Sanyal"
+    ..role = "Flutter Developer"
+    ..openToWork = true;
+
+  print(dev.sayHi());
+}
+
+---
+
+### backend
+
 ```
-B.Tech Final Year — Flutter & Backend
-Building things that don't crash (mostly)
+Firebase · Supabase · DartFrog
+```
+
+### state
+
+```
+Provider · Riverpod · BLoC
+```
+
+### architecture
+
+```
+MVVM · MVC
+```
+
+### tools
+
+```
+Git · GitHub Actions · Neovim · VS Code · Android Studio · Xcode
+```
+
+### api
+
+```
+HTTP · REST
+```
+
+### testing
+
+```
+Flutter Test
+```
+
+### mobile & design
+
+```
+Kotlin · Swift · Figma
 ```
 
 ---
 
-## stack
-
-```
-flutter  dart  firebase  git  node
-```
-
----
-
-## projects
-
-`flutter-polls` — real-time polling app with Firebase  
-`expense-tracker` — minimalist expense management  
-`portfolio` — this one
-
----
-
-## links
-
-[github.com/AritraSanyal](https://github.com/AritraSanyal) · [aritra.sanyal.official@gmail.com](mailto:aritra.sanyal.official@gmail.com)
-
----
-
-Built with Flutter · 2024
+![visitors](https://visitor-badge.laobi.icu/badge?page_id=AritraSanyal.AritraSanyal)
