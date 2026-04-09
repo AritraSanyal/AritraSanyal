@@ -6,8 +6,41 @@ Hi, I'm Aritra Sanyal, a B.Tech final year student passionate about mobile devel
 
 **Focus Areas:** Mobile App Development, Backend, ML/AI
 
-- 🌱 Currently learning **DartFrog · Supabase · Next.js**
-- 💬 Ask me about **Flutter, Dart, Firebase**
+* 🌱 Currently learning ** · Flutter Rendering Pipeline · Rust · **
+* 💬 Ask me about **Flutter, Dart, **
+
+---
+
+## ⏱️ Coding Activity
+
+<!--START_SECTION:waka-->
+
+<!--END_SECTION:waka-->
+
+<p align="left">
+<a href="https://wakatime.com/@AritraSanyal">
+<img src="https://github-readme-stats.vercel.app/api/wakatime?username=AritraSanyal&theme=tokyonight&hide_border=true&layout=compact"/>
+</a>
+</p>
+
+---
+
+## 📊 GitHub Stats
+
+<p align="left">
+<img src="https://github-readme-stats.vercel.app/api?username=AritraSanyal&show_icons=true&theme=tokyonight&hide_border=true"/>
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=AritraSanyal&layout=compact&theme=tokyonight&hide_border=true"/>
+</p>
+
+---
+
+## 🏆 Developer Grade
+
+<p align="left">
+<img src="https://github-profile-trophy.vercel.app/?username=AritraSanyal&theme=tokyonight&no-frame=true&row=1&column=6"/>
+</p>
+
+---
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
@@ -40,6 +73,7 @@ Hi, I'm Aritra Sanyal, a B.Tech final year student passionate about mobile devel
 <a href="https://neovim.io" target="_blank" rel="noreferrer"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/neovim/neovim-original.svg" alt="neovim" width="40" height="40"/></a>
 </p>
 
+<<<<<<< HEAD
 <!--START_SECTION:waka-->
 
 ```txt
@@ -52,3 +86,6 @@ YAML       3 mins                ▒░░░░░░░░░░░░░░�
 
 
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=AritraSanyal&" alt="AritraSanyal" /></p>
+=======
+<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=AritraSanyal&theme=tokyonight&hide_border=true" /></p>
+>>>>>>> 6e75168 (fix: refactord it)
