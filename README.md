@@ -9,6 +9,7 @@ Hi, I'm Aritra Sanyal, a B.Tech final year student passionate about mobile devel
 - 🌱 Currently learning **Flutter Rendering Pipeline · Rust**
 - 💬 Ask me about **Flutter, Dart, Firebase, DartFrog**
 ---
+### What I did today !
 <!--START_SECTION:waka-->
 
 ```txt
