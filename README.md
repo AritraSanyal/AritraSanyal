@@ -1,54 +1,78 @@
-# Hi, Aritra here!
+<div align="center">
 
-Hi, I'm Aritra Sanyal, a B.Tech final year student passionate about mobile development. I build Flutter apps and explore ML/AI in my free time. Currently focused on full-stack development with DartFrog and Supabase.
+<pre>
+NVIM v0.10.0                                 README.md
 
-**Currently:** Flutter Developer, B.Tech Final Year
+~                                             
+~   aritra@dev:~$ whoami                      
+~   flutter developer • cs undergrad          
+~                                             
+~   aritra@dev:~$ current                     
+~   building todo app (riverpod)              
+~                                             
+~   aritra@dev:~$ focus                       
+~   state • architecture • internals          
+~                                             
+~   aritra@dev:~$ editor                      
+~   nvim                                      
+~                                             
+~                                             
+</pre>
 
-**Focus Areas:** Cross Platform Mobile App Development, ML/AI
+</div>
 
-- 🌱 Currently learning **Flutter Rendering Pipeline · Rust**
-- 💬 Ask me about **Flutter, Dart, Firebase, DartFrog**
 ---
-### What I did today !
-<!--START_SECTION:waka-->
 
-```txt
-Dart       2 hrs 36 mins         ███████████████████▓░░░░░   79.09 %
-Markdown   37 mins               ████▓░░░░░░░░░░░░░░░░░░░░   19.07 %
-YAML       3 mins                ▒░░░░░░░░░░░░░░░░░░░░░░░░   01.83 %
+## ⏱️ wakatime.log
+
+```text
+> last 7 days
 ```
 
+<!--START_SECTION:waka-->
+
 <!--END_SECTION:waka-->
----
-<h3 align="left">Connect with me:</h3>
-<p align="left">
-<a href="https://github.com/AritraSanyal" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/github.svg" alt="AritraSanyal" height="30" width="40" /></a>
-<a href="https://www.linkedin.com/in/aritra-sanyal-08263b214/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="aritra-sanyal-08263b214" height="30" width="40" /></a>
-<a href="mailto:aritra.sanyal.official@gmail.com" target="blank"><img align="center" src="https://img.icons8.com/color/48/gmail-new.png" alt="gmail" height="30" width="40" /></a>
+
+<p>
+<img src="https://github-readme-stats.vercel.app/api/wakatime?username=AritraSanyal&layout=compact&hide_border=true"/>
 </p>
+
 ---
-<h3 align="left">Languages & Tools:</h3>
-<p align="left">
-<a href="https://flutter.dev" target="_blank" rel="noreferrer"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/flutter/flutter-original.svg" alt="flutter" width="40" height="40"/></a>
-<a href="https://dart.dev" target="_blank" rel="noreferrer"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/dart/dart-original.svg" alt="dart" width="40" height="40"/></a>
-<a href="https://firebase.google.com" target="_blank" rel="noreferrer"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/firebase/firebase-original.svg" alt="firebase" width="40" height="40"/></a>
-<a href="https://developer.android.com" target="_blank" rel="noreferrer"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/android/android-original.svg" alt="android" width="40" height="40"/></a>
-<a href="https://developer.apple.com/swift" target="_blank" rel="noreferrer"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/swift/swift-original.svg" alt="swift" width="40" height="40"/></a>
-<a href="https://www.python.org" target="_blank" rel="noreferrer"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" alt="python" width="40" height="40"/></a>
-<a href="https://www.java.com" target="_blank" rel="noreferrer"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg" alt="java" width="40" height="40"/></a>
-<a href="https://en.wikipedia.org/wiki/C_(programming_language)" target="_blank" rel="noreferrer"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/c/c-original.svg" alt="c" width="40" height="40"/></a>
-<a href="https://kotlinlang.org" target="_blank" rel="noreferrer"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/kotlin/kotlin-original.svg" alt="kotlin" width="40" height="40"/></a>
-<a href="https://git-scm.com" target="_blank" rel="noreferrer"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" alt="git" width="40" height="40"/></a>
-<a href="https://github.com" target="_blank" rel="noreferrer"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/github/github-original.svg" alt="github" width="40" height="40"/></a>
-<a href="https://developer.android.com/studio" target="_blank" rel="noreferrer"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/androidstudio/androidstudio-original.svg" alt="androidstudio" width="40" height="40"/></a>
-<a href="https://www.postman.com" target="_blank" rel="noreferrer"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/postman/postman-original.svg" alt="postman" width="40" height="40"/></a>
-<a href="https://pytorch.org" target="_blank" rel="noreferrer"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/pytorch/pytorch-original.svg" alt="pytorch" width="40" height="40"/></a>
-<a href="https://huggingface.co" target="_blank" rel="noreferrer"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/huggingface/huggingface-original.svg" alt="huggingface" width="40" height="40"/></a>
-<a href="https://www.mongodb.com" target="_blank" rel="noreferrer"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mongodb/mongodb-original.svg" alt="mongodb" width="40" height="40"/></a>
-<a href="https://www.sqlite.org" target="_blank" rel="noreferrer"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/sqlite/sqlite-original.svg" alt="sqlite" width="40" height="40"/></a>
-<a href="https://www.figma.com" target="_blank" rel="noreferrer"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/figma/figma-original.svg" alt="figma" width="40" height="40"/></a>
-<a href="https://code.visualstudio.com" target="_blank" rel="noreferrer"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vscode/vscode-original.svg" alt="vscode" width="40" height="40"/></a>
-<a href="https://neovim.io" target="_blank" rel="noreferrer"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/neovim/neovim-original.svg" alt="neovim" width="40" height="40"/></a>
+
+## 📊 system.metrics
+
+<p>
+<img src="https://github-readme-stats.vercel.app/api?username=AritraSanyal&show_icons=true&hide_border=true"/>
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=AritraSanyal&layout=compact&hide_border=true"/>
 </p>
+
 ---
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=AritraSanyal&" alt="AritraSanyal" /></p>
+
+## 🏆 achievements.log
+
+<p>
+<img src="https://github-profile-trophy.vercel.app/?username=AritraSanyal&no-frame=true&row=1&column=6"/>
+</p>
+
+---
+
+## ⚙️ stack.modules
+
+<p>
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/flutter/flutter-original.svg" height="28"/>
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/dart/dart-original.svg" height="28"/>
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/firebase/firebase-original.svg" height="28"/>
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" height="28"/>
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/neovim/neovim-original.svg" height="28"/>
+</p>
+
+---
+
+<div align="center">
+
+<pre>
+-- NORMAL --                          100%  ln:1 col:1
+aritra@dev | flutter | nvim | wakatime
+</pre>
+
+</div>
