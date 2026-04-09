@@ -4,18 +4,28 @@ Hi, I'm Aritra Sanyal, a B.Tech final year student passionate about mobile devel
 
 **Currently:** Flutter Developer, B.Tech Final Year
 
-**Focus Areas:** Mobile App Development, Backend, ML/AI
+**Focus Areas:** Cross Platform Mobile App Development, ML/AI
 
-- 🌱 Currently learning **DartFrog · Supabase · Next.js**
-- 💬 Ask me about **Flutter, Dart, Firebase**
+- 🌱 Currently learning **Flutter Rendering Pipeline · Rust**
+- 💬 Ask me about **Flutter, Dart, Firebase, DartFrog**
+---
+<!--START_SECTION:waka-->
 
+```txt
+Dart       2 hrs 36 mins         ███████████████████▓░░░░░   79.09 %
+Markdown   37 mins               ████▓░░░░░░░░░░░░░░░░░░░░   19.07 %
+YAML       3 mins                ▒░░░░░░░░░░░░░░░░░░░░░░░░   01.83 %
+```
+
+<!--END_SECTION:waka-->
+---
 <h3 align="left">Connect with me:</h3>
 <p align="left">
 <a href="https://github.com/AritraSanyal" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/github.svg" alt="AritraSanyal" height="30" width="40" /></a>
 <a href="https://www.linkedin.com/in/aritra-sanyal-08263b214/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="aritra-sanyal-08263b214" height="30" width="40" /></a>
 <a href="mailto:aritra.sanyal.official@gmail.com" target="blank"><img align="center" src="https://img.icons8.com/color/48/gmail-new.png" alt="gmail" height="30" width="40" /></a>
 </p>
-
+---
 <h3 align="left">Languages & Tools:</h3>
 <p align="left">
 <a href="https://flutter.dev" target="_blank" rel="noreferrer"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/flutter/flutter-original.svg" alt="flutter" width="40" height="40"/></a>
@@ -39,16 +49,5 @@ Hi, I'm Aritra Sanyal, a B.Tech final year student passionate about mobile devel
 <a href="https://code.visualstudio.com" target="_blank" rel="noreferrer"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vscode/vscode-original.svg" alt="vscode" width="40" height="40"/></a>
 <a href="https://neovim.io" target="_blank" rel="noreferrer"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/neovim/neovim-original.svg" alt="neovim" width="40" height="40"/></a>
 </p>
-
-<!--START_SECTION:waka-->
-
-```txt
-Dart       2 hrs 36 mins         ███████████████████▓░░░░░   79.09 %
-Markdown   37 mins               ████▓░░░░░░░░░░░░░░░░░░░░   19.07 %
-YAML       3 mins                ▒░░░░░░░░░░░░░░░░░░░░░░░░   01.83 %
-```
-
-<!--END_SECTION:waka-->
-
-
+---
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=AritraSanyal&" alt="AritraSanyal" /></p>
