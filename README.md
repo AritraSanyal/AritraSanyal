@@ -1,98 +1,67 @@
 <div align="center">
-
-<pre>
-█████╗ ██████╗ ██╗██████╗  █████╗ ██╗   ██╗
-██╔══██╗██╔══██╗██║██╔══██╗██╔══██╗╚██╗ ██╔╝
-███████║██████╔╝██║██║  ██║███████║ ╚████╔╝ 
-██╔══██║██╔══██╗██║██║  ██║██╔══██║  ╚██╔╝  
-██║  ██║██║  ██║██║██████╔╝██║  ██║   ██║   
-╚═╝  ╚═╝╚═╝  ╚═╝╚═╝╚═════╝ ╚═╝  ╚═╝   ╚═╝   
-</pre>
-
-<p>
-brings Flutter clarity to every screen, couples clean architecture with readable state, and keeps toolchains lean.
-</p>
-<p>
-<a href="https://github.com/AritraSanyal">GitHub</a> • <a href="https://github.com/AritraSanyal?tab=repositories">Repos</a> • <a href="https://github.com/AritraSanyal/AritraSanyal/discussions">Discussions</a>
-</p>
-
+  <h1>👋 Aritra Sanyal</h1>
+  <p>Flutter engineer crafting reliable mobile stacks and the tooling that keeps them calm.</p>
+  <p><strong>Currently shipping:</strong> Todo workspace · Portfolio refresh · Shared backend utilities</p>
+  <p>
+    <a href="https://github.com/AritraSanyal?tab=repositories">Browse Projects</a> ·
+    <a href="https://github.com/AritraSanyal/AritraSanyal/discussions">Start a Chat</a>
+  </p>
 </div>
 
 ---
 
-### ⚡ system.stats
+### 🔭 Live Radar
 
-```text
-focus        → Flutter apps, Dart tooling, backend scaffolds
-problems     → clean architecture, resilient state, repeatable infra
-current mode → iterating on todo • portfolio • backend trio
-```
-
----
-
-### ✨ highlights
-
-- crafting Flutter modules with layered domain code and deterministic state flows.
-- pairing mobile UI with backend contracts so reusable widgets and APIs stay aligned.
-- automating local tooling so experimentation never derails stability.
+| Area | What I'm doing |
+| --- | --- |
+| Architecture | turning product requirements into modular features with domain + application layers. |
+| State | keeping Flutter UIs deterministic via Riverpod, Freezed, and well-defined lifecycles. |
+| Tooling | Neovim-first workflows, scripts, and CI glue so teams can reason about releases faster. |
 
 ---
 
-### 📁 recent.projects
+### 🚀 Selected Work
 
-- **todo** – Flutter task manager (Riverpod-backed state, clean architecture wiring).
-- **dotfiles/nvim** – Neovim setup tuned for Dart/Flutter dev + terminal-first workflows.
-- **portfolio** – Flutter/Web journeyman site that doubles as a personal design playground.
-- **backend** – Shared REST/GraphQL helpers powering the apps above.
-
----
-
-### 📄 recent.files
-
-```text
-task_state.dart      ← orchestrating reactive task flows in the todo app
-task_provider.dart   ← exposing state to widgets while shielding edge cases
-task_repository.dart ← local + remote persistence glue
-README.md            ← this document
-wakatime.yml         ← editor + project tracking configuration
-```
+| Project | Stack | Why it matters | Links |
+| --- | --- | --- | --- |
+| `todo` | Flutter · Riverpod · Freezed | opinionated task canvases with painless offline sync and analytics hooks. | <a href="https://github.com/AritraSanyal">code</a> |
+| `portfolio` | Flutter Web · Animations | narrative site showcasing builds, components, and motion experiments. | <a href="https://github.com/AritraSanyal">code</a> |
+| `backend` | Dart server · REST/GraphQL | shared APIs + contracts feeding the mobile apps and internal dashboards. | <a href="https://github.com/AritraSanyal">code</a> |
+| `dotfiles` | Neovim · Lua · Shell | terminal-first DX kit with Flutter-aware snippets, LSP, and live docs. | <a href="https://github.com/AritraSanyal/dotfiles">repo</a> |
 
 ---
 
-### ⏱️ coding.activity
+### 🧰 Toolbox
+
+| Layer | Tools | Notes |
+| --- | --- | --- |
+| Client | Flutter, Dart, Riverpod, Freezed, GoRouter | build structured feature modules with predictable state and navigation. |
+| Backend | Dart shelf, Firebase, Supabase | consistent auth, realtime data, and typed APIs backing multiple clients. |
+| Quality | Widget tests, golden tests, integration harnesses | catch regressions before they ship. |
+| DX | Neovim, Zsh, tmux, GitHub Actions | automate linting, formatting, and release rituals. |
+
+---
+
+### 📈 Signals
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/wakatime?username=AritraSanyal&layout=compact&hide_border=true" alt="WakaTime stats"/>
+  <img src="https://github-readme-stats.vercel.app/api/wakatime?username=AritraSanyal&layout=compact&hide_border=true" alt="WakaTime"/>
   <br/>
-  <img src="https://github-readme-stats.vercel.app/api?username=AritraSanyal&show_icons=true&theme=radical&hide_border=true" alt="GitHub stats"/>
+  <img src="https://github-readme-streak-stats.herokuapp.com?user=AritraSanyal&theme=dark&hide_border=true" alt="GitHub streak"/>
 </p>
 
 ---
 
-### 🧩 system.modules
+### 🤝 Connect
 
-| Area | Tools + Notes |
-| --- | --- |
-| Flutter + Dart | Layered apps with Riverpod/Freezed, focused on observability and state clarity. |
-| Tooling | Neovim, LSP, and bespoke scripts that keep builds fast and reviews repeatable. |
-| Backend | Dart-based services powering todo + portfolio APIs, keeping server logic as clean as the UI. |
-
----
-
-### 📬 connect
-
-- 💬 Start a conversation by opening a discussion or issue in this repo.
-- ⭐ Follow or star the GitHub profile to see new work and callouts.
-- 🚀 Looking for collaboration? Ping me via GitHub and we can sketch the next feature together.
+- open a discussion in this profile repo for collaboration ideas or code walkthroughs.
+- star repositories you want to follow—releases and changelog notes go out regularly.
+- prefer async? raise an issue, and I'll respond with context or a screen recording.
 
 <div align="center">
 
-<pre>
-status → coding • building • improving
-</pre>
-
-<p>
-Quick links → <a href="https://github.com/AritraSanyal">GitHub</a> • <a href="https://github.com/AritraSanyal/AritraSanyal/discussions">Discussions</a> • <a href="https://github.com/AritraSanyal?tab=repositories">Repos</a>
-</p>
+```
+always iterating → shipping → refactoring → sharing
+```
 
 </div>
