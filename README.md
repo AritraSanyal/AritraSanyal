@@ -1,33 +1,58 @@
 <div align="center">
 
 <pre>
-NVIM v0.10.0                                 README.md
+█████╗ ██████╗ ██╗██████╗  █████╗ ██╗   ██╗
+██╔══██╗██╔══██╗██║██╔══██╗██╔══██╗╚██╗ ██╔╝
+███████║██████╔╝██║██║  ██║███████║ ╚████╔╝ 
+██╔══██║██╔══██╗██║██║  ██║██╔══██║  ╚██╔╝  
+██║  ██║██║  ██║██║██████╔╝██║  ██║   ██║   
+╚═╝  ╚═╝╚═╝  ╚═╝╚═╝╚═════╝ ╚═╝  ╚═╝   ╚═╝   
+</pre>
 
-~                                             
-~   aritra@dev:~$ whoami                      
-~   flutter developer • cs undergrad          
-~                                             
-~   aritra@dev:~$ current                     
-~   building todo app (riverpod)              
-~                                             
-~   aritra@dev:~$ focus                       
-~   state • architecture • internals          
-~                                             
-~   aritra@dev:~$ editor                      
-~   nvim                                      
-~                                             
-~                                             
+<pre>
+aritra@dev ~ flutter developer
+system → neovim • macOS • dart
+focus  → clean architecture • state • internals
 </pre>
 
 </div>
 
 ---
 
-## ⏱️ wakatime.log
+### ⚡ system.stats
 
 ```text
-> last 7 days
+startup time  → learning everyday
+projects      → flutter todo • portfolio • backend
+editor        → nvim
 ```
+
+---
+
+### 📁 recent.projects
+
+```text
+~/flutterProjects/todo
+~/dotfiles/nvim
+~/flutterProjects/portfolio
+~/flutterProjects/backend
+```
+
+---
+
+### 📄 recent.files
+
+```text
+task_state.dart
+task_provider.dart
+task_repository.dart
+README.md
+wakatime.yml
+```
+
+---
+
+### ⏱️ coding.activity
 
 <!--START_SECTION:waka-->
 
@@ -39,31 +64,13 @@ NVIM v0.10.0                                 README.md
 
 ---
 
-## 📊 system.metrics
+### 🧩 system.modules
 
 <p>
-<img src="https://github-readme-stats.vercel.app/api?username=AritraSanyal&show_icons=true&hide_border=true"/>
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=AritraSanyal&layout=compact&hide_border=true"/>
-</p>
-
----
-
-## 🏆 achievements.log
-
-<p>
-<img src="https://github-profile-trophy.vercel.app/?username=AritraSanyal&no-frame=true&row=1&column=6"/>
-</p>
-
----
-
-## ⚙️ stack.modules
-
-<p>
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/flutter/flutter-original.svg" height="28"/>
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/dart/dart-original.svg" height="28"/>
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/firebase/firebase-original.svg" height="28"/>
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" height="28"/>
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/neovim/neovim-original.svg" height="28"/>
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/flutter/flutter-original.svg" height="26"/>
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/dart/dart-original.svg" height="26"/>
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" height="26"/>
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/neovim/neovim-original.svg" height="26"/>
 </p>
 
 ---
@@ -71,8 +78,7 @@ NVIM v0.10.0                                 README.md
 <div align="center">
 
 <pre>
--- NORMAL --                          100%  ln:1 col:1
-aritra@dev | flutter | nvim | wakatime
+status → coding • building • improving
 </pre>
 
 </div>

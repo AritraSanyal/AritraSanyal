@@ -1,8 +1,11 @@
 name: Waka Readme
 
 on:
+  push:
+    branches:
+      - "*"        # runs on all branches
   schedule:
-    - cron: "0 */6 * * *"  # every 6 hours
+    - cron: "0 */6 * * *"
   workflow_dispatch:
 
 jobs:
