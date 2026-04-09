@@ -40,4 +40,8 @@ Hi, I'm Aritra Sanyal, a B.Tech final year student passionate about mobile devel
 <a href="https://neovim.io" target="_blank" rel="noreferrer"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/neovim/neovim-original.svg" alt="neovim" width="40" height="40"/></a>
 </p>
 
+<!--START_SECTION:waka-->
+<!--END_SECTION:waka-->
+
+
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=AritraSanyal&" alt="AritraSanyal" /></p>
