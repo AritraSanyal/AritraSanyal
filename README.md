@@ -13,11 +13,11 @@ Hi, I'm Aritra Sanyal, a B.Tech final year student passionate about mobile devel
 <!--START_SECTION:waka-->
 
 ```txt
-Markdown   7 hrs 45 mins         █████████████▒░░░░░░░░░░░   53.19 %
-Rust       4 hrs 6 mins          ███████░░░░░░░░░░░░░░░░░░   28.21 %
-Dart       1 hr 17 mins          ██▒░░░░░░░░░░░░░░░░░░░░░░   08.83 %
-Lua        1 hr 2 mins           █▓░░░░░░░░░░░░░░░░░░░░░░░   07.18 %
-TOML       16 mins               ▒░░░░░░░░░░░░░░░░░░░░░░░░   01.90 %
+Markdown   5 hrs 52 mins         ████████████▒░░░░░░░░░░░░   48.67 %
+Rust       4 hrs 6 mins          ████████▓░░░░░░░░░░░░░░░░   34.09 %
+Dart       1 hr 17 mins          ██▓░░░░░░░░░░░░░░░░░░░░░░   10.67 %
+Lua        25 mins               █░░░░░░░░░░░░░░░░░░░░░░░░   03.46 %
+TOML       16 mins               ▓░░░░░░░░░░░░░░░░░░░░░░░░   02.30 %
 ```
 
 <!--END_SECTION:waka-->
