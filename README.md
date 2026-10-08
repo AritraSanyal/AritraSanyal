@@ -13,11 +13,11 @@ Hi, I'm Aritra Sanyal, a B.Tech final year student passionate about mobile devel
 <!--START_SECTION:waka-->
 
 ```txt
-Markdown   2 hrs 3 mins          █████████▓░░░░░░░░░░░░░░░   38.77 %
-Swift      1 hr 50 mins          ████████▓░░░░░░░░░░░░░░░░   34.48 %
-Bash       44 mins               ███▒░░░░░░░░░░░░░░░░░░░░░   13.85 %
-Lua        40 mins               ███▒░░░░░░░░░░░░░░░░░░░░░   12.75 %
-AsciiDoc   0 secs                ░░░░░░░░░░░░░░░░░░░░░░░░░   00.17 %
+Swift      2 hrs 40 mins         ████████▓░░░░░░░░░░░░░░░░   35.17 %
+Markdown   2 hrs 23 mins         ████████░░░░░░░░░░░░░░░░░   31.40 %
+Lua        1 hr 47 mins          ██████░░░░░░░░░░░░░░░░░░░   23.60 %
+Bash       44 mins               ██▒░░░░░░░░░░░░░░░░░░░░░░   09.71 %
+AsciiDoc   0 secs                ░░░░░░░░░░░░░░░░░░░░░░░░░   00.12 %
 ```
 
 <!--END_SECTION:waka-->
